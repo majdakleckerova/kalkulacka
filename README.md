@@ -13,7 +13,7 @@ TSW - 4. seminář
 workflow = sada co se spouští
 
 11. toto napsat do yamlu:
-
+ ```
   name: 
   on: [Push]
   jobs: 
@@ -43,5 +43,5 @@ workflow = sada co se spouští
         name: Otestuj pokryti
         run: pytest -cov
         
-          
+```          
     
