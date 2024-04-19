@@ -5,3 +5,5 @@ def test_scitani():
 
 def test_nasobeni():
     assert funkce_nasobeni.nasobeni(4, 6) == 17
+
+# status check v nastaveni repozitare
