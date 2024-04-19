@@ -4,4 +4,4 @@ def test_scitani():
     assert funkce_scitani.scitani(4, 2) == 6
 
 def test_nasobeni():
-    assert funkce_nasobeni.nasobeni(4, 6) == 14
+    assert funkce_nasobeni.nasobeni(4, 6) == 17
