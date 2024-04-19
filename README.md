@@ -7,3 +7,4 @@ TSW - 4.
 5. vytvoření projektu v repozitáři, "kalkulacka kanban tabule"
 6. úprava kanban tabule ; Backlog -> Programming -> Ready for Testing -> Testing in process -> Testing Done
 7. přidání items do Backlogu -> convert to issue -> programátor si je přiřadí -. přesune item do "Programming" , ....
+8. poté co je vše hotovo, admin přesune funkce z větví na main - merge, pull request
