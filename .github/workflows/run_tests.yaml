@@ -1,6 +1,6 @@
 name: Moje testicky
 
-on: [Push]
+on: [push]
 
 jobs:
   build:
