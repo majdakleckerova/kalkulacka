@@ -8,3 +8,5 @@ TSW - 4.
 6. úprava kanban tabule ; Backlog -> Programming -> Ready for Testing -> Testing in process -> Testing Done
 7. přidání items do Backlogu -> convert to issue -> programátor si je přiřadí -. přesune item do "Programming" , ....
 8. poté co je vše hotovo, admin přesune funkce z větví na main - merge, pull request
+9. vytvoření protection rule : repository -. settings -> branches -> protection rules -. název větve (main), "require a pull request before merging" , require approvals = 2
+10. github action workflow , který při pushi spustí všechny pytestsoubory a řekne, zda pushnutý kód prošel testy
