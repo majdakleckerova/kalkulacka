@@ -1,5 +1,5 @@
 # kalkulacka
-TSW - 4. 
+TSW - 4. seminář 
 1. vytvoření repozitáře "kalkulacka"
 2. přidání kamarádů
 3. vytvoření 3 issues, které si každý přiřadil
