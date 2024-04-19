@@ -1,0 +1,2 @@
+# kalkulacka
+TSW - 4. 
